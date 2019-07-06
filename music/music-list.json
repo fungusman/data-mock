@@ -1,0 +1,26 @@
+[
+    {
+        "id": "0",
+        "title": "断了的弦",
+        "author": "周杰伦",
+        "album": "寻找周杰伦",
+        "lyric": "https://fungusman.github.io/data-mock/music/%E6%96%AD%E4%BA%86%E7%9A%84%E5%BC%A6.json",
+        "url": "https://fungusman.github.io/data-mock/music/%E6%96%AD%E4%BA%86%E7%9A%84%E5%BC%A6.mp3"
+    },
+    {
+        "id": "1",
+        "title": "菊花台",
+        "author": "周杰伦",
+        "album": "依然范特西",
+        "lyric": "https://fungusman.github.io/data-mock/music/%E8%8F%8A%E8%8A%B1%E5%8F%B0.json",
+        "url": "https://fungusman.github.io/data-mock/music/%E8%8F%8A%E8%8A%B1%E5%8F%B0.mp3"
+    },
+    {
+        "id": "2",
+        "title": "The Girl is Mine",
+        "author": "Michael Jackson",
+        "album": "The Ultimate Collection",
+        "lyric": "https://fungusman.github.io/data-mock/music/The%20Girl%20is%20Mine.json",
+        "url": "https://fungusman.github.io/data-mock/music/The%20Girl%20is%20Mine.mp3"
+    }
+]
